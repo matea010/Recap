@@ -1,3 +1,7 @@
 header {
     text-align: center;
 }
+.jumbotron{
+   padding: 10rem 2rem;
+   background-color: red;
+}
